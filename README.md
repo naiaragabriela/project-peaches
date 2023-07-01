@@ -1,5 +1,5 @@
-#  Project Peaches 🎞️👸🍄
-<img>[https://e7.pngegg.com/pngimages/771/778/png-clipart-princess-peach-character-mario-party-star-rush-mario-bros-princess-peach-luigi-peach-nintendo-computer-wallpaper.png](https://e7.pngegg.com/pngimages/771/778/png-clipart-princess-peach-character-mario-party-star-rush-mario-bros-princess-peach-luigi-peach-nintendo-computer-wallpaper.png)</img>
+#  Project Peaches 
+
 <img>![image](https://github.com/naiaragabriela/project-peaches/assets/126898837/021d4ada-c314-4137-9335-7c9ca1564c3e)</img>
 
 Welcome to Project Peaches, a video streaming web application built with cutting-edge technologies to provide you with an immersive movie-watching experience.
